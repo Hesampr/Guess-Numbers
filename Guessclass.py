@@ -1,5 +1,7 @@
 from random import randint as ri
 
+
+#guess number class
 class Guess:
     number = int()
     def __init__(self,number1,number2):
